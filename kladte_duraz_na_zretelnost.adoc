@@ -1,0 +1,4 @@
+[id="kladte_duraz_na_zretelnost"]
+= 3. Klaďte důraz na zřetelnost
+
+Předmět zpráv pište maximálně jasně a případně přidejte klíčové slovo pro kategorii, např. *[Pro informaci]*, *[Urgentní]* nebo *[Nespěchá]*. Pište v krátkých a jednoznačných větách. Pokud e-mail musí být delší než pět vět, v té první vysvětlete důvod, proč píšete. footnote:[[purple]#Užitečné je začít delší e-mail jeho zkrácenou verzí, které se populárně říká *tl;dr*, od anglického "too long; didn't read" neboli "moc dlouhé, to nečtu".#] Nepoužívejte speciální písma a barvy. footnote:[[purple]#Speciální formátování se může různým lidem zobrazit různě, potenciálně nečitelně nebo nepřehledně.#]

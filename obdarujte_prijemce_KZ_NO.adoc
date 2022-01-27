@@ -1,0 +1,5 @@
+[id="obdarujte_prijemce_KZ_NO"]
+= 8. Obdarujte příjemce: [KZ], [NO]
+
+Pokud svou zprávu dokážete zhustit jen do několika slov, napište je do předmětu a ukončete jej zkratkou *[KZ]* (= konec zprávy). To příjemci ušetří čas a nemusí daný e-mail vůbec otevírat. Zakončit e-mail značkou *[Netřeba odpovídat]* nebo *[NO]* je velmi velkorysé. Mnoho zkratek může více mást než pomáhat, ale tyto dvě jsou dokonalé a bylo by dobré, aby je používalo více lidí. footnote:[[purple]#Tyto zkratky jsou populární hlavně v angličtině, která má bohatou internetovou hantýrku. KZ je v originále *EOM* (End of Message) a NO odpovídá zkratce *NNTR* (No Need to Respond), přičemž se používá i *FYI* (For Your Information = pro vaši informaci). V češtině tyto zkratky mohou díky nízké rozšířenosti trochu mást, proto stojí za zvážení nahradit je něčím přehlednějším jako značkami *[Konec\]* nebo *[Info\]*.#]
+
