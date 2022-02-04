@@ -1,19 +1,25 @@
-The Problem
-The relentless growth of in-box overload is being driven by a surprising fact:
+= V čem je problém?
 
-The average time taken to respond to an email is greater, in aggregate, than the time it took to create.
+Vytrvalé přeplňování našich e-mailových schránek má překvapivou příčinu: Průměrný čas potřebný na vyřízení e-mailu je v úhrnu delší než čas na jeho napsání.
 
-This is counter-intuitive because it's quicker to read than to write. So you might assume a typical email takes a few minutes to write, but only a few seconds to read. However, five other factors are outweighing this.
+To zdánlivě nedává smysl, protože čtení je rychlejší nez psaní. Takže si možná pomyslíte, že napsat jeden typický e-mail zabere několik minut, zatímco přečíst jej bude trvat nanejvýš několik sekund. Nicméně je tu pět faktorů, které tuto rovnici převrátí. 
 
-- The act of processing an email consists of much more than just reading. There is a) scanning an in-box, b) deciding which ones to open, c) opening them, d) reading them e) deciding how to respond f) responding -- which may well involve writing an email of similar length back g) getting back into the flow of your other work. So the arrival of even a two-sentence email that is simply opened, read and deleted can take a full minute of your available cognitive time.
 
-- Many emails contain open-ended questions that can't rapidly be responded to. "What's your opinion on all this?" "How should I move forward?" Easy to ask, hard to answer.
+* Vyřízení e-mailu v sobě obsahuje mnohem více než jen čtení. Musíte a) prohlédnout příchozí poštu, b) rozhodnout se, který e-mail otevřít, c) otevřít jej, d) přečíst, e) vymyslet, jak odpovědět, f) sepsat odpověď, což může znamenat text podobně dlouhý tomu příchozímu, a g) navázat na svou předchozí práci. Čili i e-mail o dvou větách, který jen otevřete, přečtete a smažete, může v úhrnu zabrat až minutu vaší celkové pozornosti.
 
-- Many emails are sent to multiple recipients. It takes no time to add another cc, but each additional recipient multiplies the total response time demanded.
+* Mnoho e-mailů obsahuje otevřené otázky, na které se nesnadno odpovídá rychle. Například dotaz "Jaký na to máte názor?" nebo "Co s tím mám dělat?" se lehce pokládá, ale hůře se na ni reaguje.
 
-- Many emails contain additional text that has been copied and pasted from other documents or a lengthy thread that is simply being re-forwarded.
+* Mnoho e-mailů končí u mnoha různých příjemců. Přidat někoho dalšího do kopie nestojí žádný čas, ale každý nový příjemce znásobuje celkový čas potřebný na vyřízení.
 
-- Many emails contain links to web pages or videos. Easy to add a link. But it may take minutes to view it.
+* Mnoho e-mailů má v sobě zkopírovaný leckdy dlouhý text z jiných dokumentů nebo předchozích e-mailů ze stejného vlákna.
+
+* Mnoho e-mailů obsahuje odkazy na webové stránky nebo videa. Je snadné přidat odkaz. Jeho prohlédnutí ale může trvat delší dobu.
+
+
+A teď si vezměte, že počet lidí online roste. Je to nakonec velmi lákavé. Člověk se společenský tvor a je pro něj zcela přirozené, že chce svůj čas trávit v kontaktu s ostatními. Plejáda různých 'rozpýlení' na Internetu se rok co rok rozšiřuje a je velmi snadné (a často úžasné) je sdílet s přáteli a kolegy. Stačí zkopírovat odkaz, poslat a ... bum, kognitivní kapacita světa dostala další zásah!
+
+Výsledkem je cesta do pekel. Každou hodinu, kterou strávíte psaním e-mailů, zřejmě stojí v úhrnu více než hodinu času a pozornosti vaše různé adresáty. Takže i nevědomky vytváříme pro všechny kolem sebe čím dál větší problém.
+
 
 Now consider that the amount of time people are spending on line is increasing. It is, after all, a seductive place to hang out. As social creatures, it's the most natural thing in the world to want to use that time to reach out to others. What is more the range of 'distractions' online is growing every year. And it's easy (and often wonderful) to share them with our friends and colleagues. Just copy a link, paste and send... and boom, the world's cognitive capacity takes another hit!
 
