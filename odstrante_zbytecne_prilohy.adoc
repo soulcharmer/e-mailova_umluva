@@ -1,4 +1,0 @@
-[id="odstrante_zbytecne_prilohy"]
-= 7. Odstraňte zbytečné přílohy
-
-Nepoužívejte obrázky v automatických podpisech, protože mohou vypadat jako přílohy. Je ztrátou času kontrolovat, zda takové přílohy otevírat. Ještě horší je přikládat k e-mailu textovou přílohu, která by snadno mohla být vložena do e-mailu přímo.

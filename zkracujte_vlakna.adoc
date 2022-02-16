@@ -1,4 +1,0 @@
-[id="zkracujte_vlakna"]
-= 6. Zkracujte vlákna
-
-Leckteré e-maily zavisí na kontextu, takže je obvykle v pořádku zahrnout v odpovědi vlákno přechozích zpráv. Je ovšem vzácné, že přehledné vlákno je delší než 3 e-maily. Než svou odpověď odešlete, vymažte vše, co není relevantní. A nebo to zkuste vyřešit telefonátem.

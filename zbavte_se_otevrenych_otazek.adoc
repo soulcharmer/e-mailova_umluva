@@ -1,4 +1,0 @@
-[id="zbavte_se_otevrenych_otazek"]
-= 4. Zbavte se otevřených otázek
-
-Je poměrně zatěžující poslat někomu e-mail o čtyřech rozvláčných odstavcích a zakončit jej otázkou "Co si o tom myslíte?". I dobře míněná ale otevřená otázka, například "Jak mohu pomoci?", nemusí být příliš nápomocná. E-mailová ohleduplnost vyžaduje otázky, na které se snadno odpovídá, např. "Mám raději *a)* zavolat, *b)* přijít nebo *c)* to nechat být?"

@@ -1,6 +1,0 @@
-[id="kratka_nebo_pomala_odpoved_neni_nezdvorila"]
-
-= 2. Krátká nebo pomalá odpověď není nezdvořilá
-
-Zkusme se domluvit, že na sebe nebudeme moc tvrdí. S ohledem na množství e-mailů, se kterými se potýkáme, nemůže vadit, když odpověď zabere nějaký čas a nebude do detailu rozebírat každou jednotlivost. Nikdo nechce působit příliš úsečně, proto to neberte osobně. Prostě chceme mít od e-mailu pokoj! footnote:[[purple]#E-mail je neosobní a asymetrický a nejpodstatnější je srozumitelnost a pohodlnost komunikace. E-mail lze v dnešní době přirovnat k SMS. Neznamená to, že musíte vynechávat i oslovení a pozdravy, ale stejně tak je v pořádku nestrukturovat e-mail jako dopis psaný rukou, zvláště pokud se s adresátem znáte nebo komunikujete opakovaně.#]
-
