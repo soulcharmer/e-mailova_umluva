@@ -16,11 +16,17 @@ To zdánlivě nedává smysl, protože čtení je rychlejší nez psaní. Takže
 * Mnoho e-mailů obsahuje odkazy na webové stránky nebo videa. Je snadné přidat odkaz. Jeho prohlédnutí ale může trvat delší dobu.
 
 
-A teď si vezměte, že počet lidí online roste. Je to nakonec velmi lákavé. Člověk se společenský tvor a je pro něj zcela přirozené, že chce svůj čas trávit v kontaktu s ostatními. Plejáda různých 'rozpýlení' na Internetu se rok co rok rozšiřuje a je velmi snadné (a často úžasné) je sdílet s přáteli a kolegy. Stačí zkopírovat odkaz, poslat a ... bum, kognitivní kapacita světa dostala další zásah!
+A teď si vezměte, že počet lidí online roste. Je to nakonec velmi lákavé. Člověk se společenský tvor a je pro něj zcela přirozené, že chce svůj čas trávit v kontaktu s ostatními. Plejáda různých 'rozptýlení' na Internetu se rok co rok rozšiřuje a je velmi snadné (a často podmanivé) je sdílet s přáteli a kolegy. Stačí zkopírovat odkaz, poslat a ... bum, kognitivní kapacita světa dostala další zásah!
 
-Výsledkem je cesta do pekel. Každou hodinu, kterou strávíte psaním e-mailů, zřejmě stojí v úhrnu více než hodinu času a pozornosti vaše různé adresáty. Takže i nevědomky vytváříme pro všechny kolem sebe čím dál větší problém.
+Výsledkem je cesta do pekel. Každou hodinu, kterou strávíte psaním e-mailů, zřejmě stojí vaše adresáty v úhrnu více než hodinu času. Takže i nevědomky vytváříme pro všechny kolem sebe čím dál větší problém.
 
+Složka příchozí pošty se příhodně popisuje jako úkolovník, do kterého může přispět kdokoliv na světě. Pokud si nedáte pozor, e-maily vám mohou spolknout většinu pracovního týdne. A pak se z vás stane robot, který pouze reaguje na žádosti jiných lidí, místo abyste se proaktivně soustředili na své vlastní priority. A to nemůže být dobré.
 
+Tento fenomén lze vnímat jako moderní a zesílenou verzi tzv. tragédie občiny. A tím obecním statkem je v tomto případě úhrná míra pozornosti celého lidstva. Poslání e-mailu je až příliš snadný způsob, jak si z té pozornosti kousek uždibnout. Nechtěným důsledkem všeho toho uždibování je enormní propletenec všemožných žádostí, které nám berou čas, energii a zdravý rozum.
+
+Jak to tato úmluva může změnit? Přečtěte si Řešení.
+
+////
 Now consider that the amount of time people are spending on line is increasing. It is, after all, a seductive place to hang out. As social creatures, it's the most natural thing in the world to want to use that time to reach out to others. What is more the range of 'distractions' online is growing every year. And it's easy (and often wonderful) to share them with our friends and colleagues. Just copy a link, paste and send... and boom, the world's cognitive capacity takes another hit!
 
 The result of all this is a deadly upward spiral. Every hour you spend writing and sending email is probably consuming more than an hour of the combined attention of your various recipients. So without meaning to, we're all creating an ever growing problem for each other.
@@ -29,4 +35,5 @@ An email inbox has been aptly described as the to-do list that anyone in the wor
 
 This phenomenon can be thought of as a potent modern tragedy of the commons. The commons in question here is the world's pool of attention. Email makes it just a little too easy to grab a piece of that attention. The unintended consequence of all those little acts of grabbing, is a giant rats nest of voracious demands on our time, energy and sanity.
 
-How might the Charter solve this? See the solution. 
+How might the Charter solve this? See the solution.
+////
